@@ -1,0 +1,6 @@
+# Ignorar la carpeta de configuración de VS Code
+.vscode/
+# Ignorar todos los ejecutables
+*.exe
+# Ignorar .o
+*.o
